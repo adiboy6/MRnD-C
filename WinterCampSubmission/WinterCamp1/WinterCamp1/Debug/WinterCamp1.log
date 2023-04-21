@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adity\google drive\ol_2018_c_bvrit-n_adiboy6\wintercampsubmission\wintercamp1\wintercamp1\source.cpp(282): warning C4101: 'fp': unreferenced local variable
+c:\users\adity\google drive\ol_2018_c_bvrit-n_adiboy6\wintercampsubmission\wintercamp1\wintercamp1\source.cpp(491): warning C4101: 'str': unreferenced local variable
+  WinterCamp1.vcxproj -> C:\Users\adity\Google Drive\ol_2018_c_BVRIT-N_adiboy6\WinterCampSubmission\WinterCamp1\Debug\WinterCamp1.exe
